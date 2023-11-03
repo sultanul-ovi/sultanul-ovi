@@ -10,9 +10,9 @@
 🎓 &nbsp;I’m currently doing my PhD in Computer Science at George Mason University. \
 👀 &nbsp; I’m interested in Machine learning, Cyber Security, and Web Development. \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Blog Writing as hobbie.\
+✍️ &nbsp;In my free time, I pursue Blog Writing as a hobbie.\
 💬 &nbsp;I'm looking to collaborate on Security Projects.\
-✉️ &nbsp; How to reach me: email: sultanulislamovi@gmail.com .\
+✉️ &nbsp; How to reach me: email: sultanulislamovi@gmail.com .
 <!--📄 &nbsp;Check out my portfolio website at -->
 
  <img align="right" alt="GIF" src="https://github.com/sultanul-ovi/sultanul-ovi/blob/master/code.gif?raw=true" width="500" height="320" />
