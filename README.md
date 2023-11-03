@@ -7,12 +7,13 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+🎓 &nbsp;I’m currently doing my PhD in Computer Science at George Mason University. \
+👀 &nbsp; I’m interested in Machine learning, Cyber Security, and Web Development. \
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Blog Writing as hobbie.\
+💬 &nbsp;I'm looking to collaborate on Security Projects.\
+✉️ &nbsp; How to reach me: email: sultanulislamovi@gmail.com .\
+<!--📄 &nbsp;Check out my portfolio website at -->
 
  <img align="right" alt="GIF" src="https://github.com/sultanul-ovi/sultanul-ovi/blob/master/code.gif?raw=true" width="500" height="320" />
 
