@@ -46,7 +46,7 @@
 [![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
 
 -->
-### ⏳ Chronicles of my week as a digital mage:
+### ⏳ Chronicles of my week as a digital mage
 <!--START_SECTION:waka-->
 
 ```txt
