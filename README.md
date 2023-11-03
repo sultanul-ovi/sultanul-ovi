@@ -54,10 +54,10 @@ Python            22 hrs 10 mins ███████████████�
 Cybersecurity     5 hrs 30 mins  ████░░░░░░░░░░░░░░░░  17.31 %  // Casting protective wards in the realm of cybersecurity.
 JavaScript        2 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░  07.09 %  // Summoning asynchronous incantations in JavaScript.
 Machine Learning  2 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░  06.59 %  // Empowering neural networks with arcane machine learning algorithms.
-<!--END_SECTION:waka -->
+```
 
+<!--END_SECTION:waka-->
 ### ⚙️ &nbsp;GitHub Analytics
-
 <p align="center">
 <a href="https://github.com/sultanul-ovi">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sultanul-ovi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
