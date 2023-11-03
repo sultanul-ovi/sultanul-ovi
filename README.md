@@ -1,4 +1,4 @@
-![Sultanul Ovi Banner][](https://github.com/sultanul-ovi/sultanul-ovi/blob/master/Sultanul%20Ovi_logo%20(1)%20(1).gif/)<!-- If you want the template for my gif, email me! -->
+![Sultanul Ovi Banner](https://github.com/sultanul-ovi/sultanul-ovi/blob/master/Sultanul%20Ovi_logo%20(1)%20(1).gif/)<!-- If you want the template for my gif, email me! -->
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
