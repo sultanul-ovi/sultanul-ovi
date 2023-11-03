@@ -51,7 +51,7 @@
 
 ```txt
 Python            22 hrs 10 mins ████████████████░░░░  69.69 %  // Weaving Pythonic spells with serpentine agility.
-Cybersecurity     5 hrs 30 mins  ████░░░░░░░░░░░░░░░░  17.31 %  // Casting protective wards in the realm of cybersecurity.
+Cyber Security    5 hrs 30 mins  ████░░░░░░░░░░░░░░░░  17.31 %  // Casting protective wards in the realm of cybersecurity.
 JavaScript        2 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░  07.09 %  // Summoning asynchronous incantations in JavaScript.
 Machine Learning  2 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░  06.59 %  // Empowering neural networks with arcane machine learning algorithms.
 ```
