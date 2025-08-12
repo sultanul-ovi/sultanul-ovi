@@ -38,20 +38,6 @@
 
 [![](https://img.shields.io/badge/-🧬%20Gender%20Classification-000)](https://github.com/sultanul-ovi/Gender-Classification-Application-using-Machine-Learning)
 
-
-
-
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sultanul_ovi&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
-
-
-<!---
-[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
-[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
-[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
-[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
-[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
-[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
-
 -->
 ### ⏳ Chronicles of my week as a digital mage
 <!--START_SECTION:waka-->
@@ -62,6 +48,21 @@ Cyber Security    5 hrs 30 mins  ████░░░░░░░░░░░�
 JavaScript        2 hrs 15 mins  ██░░░░░░░░░░░░░░░░░░  07.09 %  // Summoning asynchronous incantations in JavaScript.
 Machine Learning  2 hrs 5 mins   ██░░░░░░░░░░░░░░░░░░  06.59 %  // Empowering neural networks with arcane machine learning algorithms.
 ```
+
+
+<div align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=sultanul_ovi&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
+</div>
+
+<!---
+[![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
+[![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
+[![](https://img.shields.io/badge/-🔬%20Overwatch-000)](https://github.com/adamalston/overwatch)
+[![](https://img.shields.io/badge/-🛰%20KubeSat-000)](https://github.com/adamalston/kubesat)
+[![](https://img.shields.io/badge/-🔊%20Voice%20Poker-000)](https://github.com/adamalston/Poker)
+[![](https://img.shields.io/badge/-🗺%20PokémonGo%20Map-000)](https://github.com/adamalston/PokemonGo-Map)
+
+
 
 <!--END_SECTION:waka-->
 ### ⚙️ &nbsp;GitHub Analytics
