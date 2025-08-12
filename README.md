@@ -6,11 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I’m currently doing my PhD in Computer Science at George Mason University. \
 👀 &nbsp;I’m interested in Machine learning, Cyber Security, and Web Development. \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Blog Writing as a hobbie.\
 💬 &nbsp;I'm looking to collaborate on AIML Research Projects.\
 ✉️ &nbsp;How to reach me: email: sultanulislamovi@gmail.com .
 <!--📄 &nbsp;Check out my portfolio website at -->
@@ -35,6 +33,8 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sultanul_ovi&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
 
 ### My Projects
 
