@@ -34,11 +34,16 @@
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=sultanul_ovi&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
-
 ### My Projects
 
 [![](https://img.shields.io/badge/-🧬%20Gender%20Classification-000)](https://github.com/sultanul-ovi/Gender-Classification-Application-using-Machine-Learning)
+
+
+
+
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sultanul_ovi&theme=dark&border=border&animated=true" alt="LeetCode Badges" />
+
+
 <!---
 [![](https://img.shields.io/badge/-🦠%20COVID‑19%20Dashboard-000)](https://github.com/adamalston/COVID-19-Dashboard)
 [![](https://img.shields.io/badge/-📝%20Summarizer-000)](https://github.com/adamalston/Summarizer)
