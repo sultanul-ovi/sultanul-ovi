@@ -11,7 +11,7 @@
 👀 &nbsp;I’m interested in Machine learning, Cyber Security, and Web Development. \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Blog Writing as a hobbie.\
-💬 &nbsp;I'm looking to collaborate on Security Projects.\
+💬 &nbsp;I'm looking to collaborate on AIML Research Projects.\
 ✉️ &nbsp;How to reach me: email: sultanulislamovi@gmail.com .
 <!--📄 &nbsp;Check out my portfolio website at -->
 
