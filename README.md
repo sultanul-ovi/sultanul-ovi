@@ -36,7 +36,7 @@
 
 ### My Projects
 
-[![](https://img.shields.io/badge/-🧬%20Gender%20Classification-000)](https://github.com/sultanul-ovi/Gender-Classification-Application-using-Machine-Learning)
+[![](https://img.shields.io/badge/-🧬%20Face%20Map-000)](https://github.com/sultanul-ovi/Gender-Classification-Application-using-Machine-Learning)
 
 
 ### ⏳ Chronicles of my week as a digital mage
