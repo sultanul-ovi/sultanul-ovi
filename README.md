@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I’m currently doing my PhD in Computer Science at George Mason University. \
+🎓 &nbsp;I’m currently doing my MS in Computer Science at George Mason University. \
 👀 &nbsp;I’m interested in Machine learning, Cyber Security, and Web Development. \
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, and Cloud Architecture.\
 💬 &nbsp;I'm looking to collaborate on AIML Research Projects.\
